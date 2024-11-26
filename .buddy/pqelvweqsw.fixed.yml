@@ -1,0 +1,4 @@
+- pipeline: pqelvweqsw
+  refs:
+  - refs/heads/master
+  on: CLICK
