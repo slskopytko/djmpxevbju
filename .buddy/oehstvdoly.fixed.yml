@@ -1,4 +1,0 @@
-- pipeline: oehstvdoly
-  refs:
-  - refs/heads/master
-  on: CLICK
